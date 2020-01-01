@@ -6,7 +6,7 @@ just react to a message with the 📌 and your message will be sent as an embed 
 requires mongodb + pymongo.
 
 
-![pin1](https://files.catbox.moe/c4onb1.PNG)
-![pin2](https://files.catbox.moe/pee7z3.PNG)
-![pin3](https://files.catbox.moe/dkmpvj.PNG)
-![pin4](https://files.catbox.moe/eel9tf.PNG)
+![pin1](https://files.catbox.moe/c4onb1.PNG)  
+![pin2](https://files.catbox.moe/pee7z3.PNG)  
+![pin3](https://files.catbox.moe/dkmpvj.PNG)  
+![pin4](https://files.catbox.moe/eel9tf.PNG)  
