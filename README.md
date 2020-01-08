@@ -10,3 +10,5 @@ just react to a message with the 📌 and your message will be sent as an embed 
 ![pin2](https://raw.githubusercontent.com/dumbsaltyho/discord-pinbot/master/images/pin2.PNG)  
 ![pin3](https://raw.githubusercontent.com/dumbsaltyho/discord-pinbot/master/images/pin3.PNG)  
 ![pin4](https://raw.githubusercontent.com/dumbsaltyho/discord-pinbot/master/images/pin4.PNG)  
+
+yes i know it's bad, i odn't know what i'm doing
