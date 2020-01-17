@@ -22,6 +22,8 @@ async def on_raw_reaction_add(payload):
 
     pin_db = db[str(message_channel.guild.id)]
     if payload.emoji.name == "📌":
+        if pin_fetch_msg.author == bot.user:
+            return
         pin_db_log = {
                     "pin_message_id": str(pin_msg_id),
                     "pin_user_name": str(pin_user_id.name),
